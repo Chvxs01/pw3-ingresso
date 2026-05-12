@@ -5,6 +5,7 @@ public enum ClassificacaoIndicativaEnum {
     A10,
     A12,
     A13,
+    A14,
     A16,
-    A18,
+    A18;
 }

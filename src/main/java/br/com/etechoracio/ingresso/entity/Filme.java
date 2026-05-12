@@ -24,7 +24,7 @@ public class Filme {
     private String nome;
 
     @Column(name = "NR_DURACAO")
-    private Duration duracao;
+    private int duracao;
 
     @Column(name = "NR_ANO")
     private Integer ano;
